@@ -26,7 +26,7 @@ Please do not change the value of the value list, it may not support those value
 <h2>History</h2>
 ver 0.1.2
 <br><br>
-Using color for input type to support FileMaker > 19.3
+Using color for input type(only FileMaker > 19.3 supports)
 <br><br>
 ver 0.1.1
 <br><br>
@@ -58,6 +58,7 @@ Windows: Users\username\AppData\Local\FileMaker\Extensions\AddonModules
 
 <h2>更新履歴</h2>
 ver 0.1.2
+<br><br>
 Inputにcolorの追加、19.3以上がサポートされます。
 <br><br>
 ver 0.1.1
