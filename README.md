@@ -1,4 +1,4 @@
-<h1>Sliderv0.1.2)</h1>
+<h1>Slider v0.1.2</h1>
 
 <h2>Introduction</h2>
 It is a simple addon I built based on the template (cra-template-fmw) from Geist Interactive(for details, please check: https://github.com/geistinteractive/cra-template-fmw) and rc-slider. 
