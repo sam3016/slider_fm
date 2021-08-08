@@ -61,7 +61,7 @@ Windows: Users\username\AppData\Local\FileMaker\Extensions\AddonModules
 <h2>更新履歴</h2>
 ver 0.1.2
 <br><br>
-Inputにcolorの追加、19.3以上がサポートされます。
+Inputにcolorの追加、19.3以上がサポートされています。
 <br><br>
 ver 0.1.1
 <br><br>
