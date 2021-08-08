@@ -45,7 +45,8 @@ Geist Interactiveのテンプレイ(詳細: https://github.com/geistinteractive/
 日本語、英語、フランス語、イタリア語、ドイツ語、スウェーデン語、オランダ語、スペイン語、中国語 (簡体字)、韓国語、およびポルトガル語 (ブラジル)がサポートされます。(WebViewerのもの)
 
 <h2>FileMakerバーション</h2>
-dsClaris Claridddcxzフォルダ19.2は
+フォルダ19.2はClaris FileMaker 19.2以上をサポートしています。
+フォルダ19.3はClaris FileMaker 19.3以上をサポートしています。
 
 <h2>インストール</h2>
 アドオンフォルダをAddonModulesにコピーしてください。　Macユーザは.fmaddonをダブルクリックするとフォルダが自動的に作成されます。
