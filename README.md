@@ -11,7 +11,8 @@ It supports English, French, German, Italian, Dutch, Spanish, Swedish, Japanese,
 You are welcome to send me the translation of other languages. I will update it as soon as possible.
 
 <h2>FileMaker Version</h2>
-It supports Claris FileMaker > 19.2 and 19.3
+Folder 19.2 supports Claris FileMaker > 19.2.
+Folder 19.3 supports Claris FileMaker > 19.3.
 
 <h2>Installation</h2>
 Please copy the add-on folder to AddonModules. For Mac, you can double click the .fmaddon file, the addon folder will automatically be created.
@@ -44,7 +45,7 @@ Geist Interactiveのテンプレイ(詳細: https://github.com/geistinteractive/
 日本語、英語、フランス語、イタリア語、ドイツ語、スウェーデン語、オランダ語、スペイン語、中国語 (簡体字)、韓国語、およびポルトガル語 (ブラジル)がサポートされます。(WebViewerのもの)
 
 <h2>FileMakerバーション</h2>
-FileMaker 19.2と19.3以上をサポートされています。
+dsClaris Claridddcxzフォルダ19.2は
 
 <h2>インストール</h2>
 アドオンフォルダをAddonModulesにコピーしてください。　Macユーザは.fmaddonをダブルクリックするとフォルダが自動的に作成されます。
