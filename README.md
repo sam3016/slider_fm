@@ -1,4 +1,4 @@
-<h1>Slider v0.1.2</h1>
+<h1>Slider v0.1.3</h1>
 
 <h2>Introduction</h2>
 It is a simple addon I built based on the template (cra-template-fmw) from Geist Interactive(for details, please check: https://github.com/geistinteractive/cra-template-fmw) and rc-slider. 
@@ -11,8 +11,7 @@ It supports English, French, German, Italian, Dutch, Spanish, Swedish, Japanese,
 You are welcome to send me the translation of other languages. I will update it as soon as possible.
 
 <h2>FileMaker Version</h2>
-Folder 19.2 supports Claris FileMaker > 19.2.
-Folder 19.3 supports Claris FileMaker > 19.3.
+Supports Claris FileMaker > 19.2
 
 <h2>Installation</h2>
 Please copy the add-on folder to AddonModules. For Mac, you can double click the .fmaddon file, the addon folder will automatically be created.
@@ -25,6 +24,10 @@ Windows: Users\username\AppData\Local\FileMaker\Extensions\AddonModules
 Please do not change the value of the value list, it may not support those values and display an error.
 
 <h2>History</h2>
+ver 0.1.3
+<br><br>
+Combine Mac and Windows version into one.
+<br><br>
 ver 0.1.2
 <br><br>
 Using color for input type(only FileMaker > 19.3 supports)
@@ -45,8 +48,7 @@ Geist Interactiveのテンプレイ(詳細: https://github.com/geistinteractive/
 日本語、英語、フランス語、イタリア語、ドイツ語、スウェーデン語、オランダ語、スペイン語、中国語 (簡体字)、韓国語、およびポルトガル語 (ブラジル)がサポートされます。(WebViewerのもの)
 
 <h2>FileMakerバーション</h2>
-フォルダ19.2はClaris FileMaker 19.2以上をサポートしています。
-フォルダ19.3はClaris FileMaker 19.3以上をサポートしています。
+Claris FileMaker 19.2以上をサポートしています。
 
 <h2>インストール</h2>
 アドオンフォルダをAddonModulesにコピーしてください。　Macユーザは.fmaddonをダブルクリックするとフォルダが自動的に作成されます。
@@ -59,6 +61,10 @@ Windows: Users\username\AppData\Local\FileMaker\Extensions\AddonModules
 値一覧の値を変更しないでください。変更するとエラーが出るかもしれません。
 
 <h2>更新履歴</h2>
+ver 0.1.3
+<br><br>
+WindowsとMacバーションを統合します。
+<br><br>
 ver 0.1.2
 <br><br>
 Inputにcolorの追加、19.3以上がサポートされています。
