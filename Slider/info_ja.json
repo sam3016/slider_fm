@@ -1,7 +1,0 @@
-﻿{
-	"Title" : "スライダー",
-	"Description" : "最大値と最小値の間で値を選択できるスライダーです。\rFreepikによって作成されたアイコン（https://www.freepik.com）",
-	"Category" : "Sam.Hのアドオン",
-	"Features" : [ "値の選択、色の変更、最大/最小の設定" ],
-	"Optimized" : [ "Desktop", "Tablet", "Mobile" ]
-}
