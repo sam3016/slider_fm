@@ -1,7 +1,0 @@
-﻿{
-	"Title" : "Slider",
-	"Description" : "It is a slider allowing value selection between maximum and minimum value.\r\rIcons made by Freepik(https://www.freepik.com)",
-	"Category" : "Addon By Sam.H",
-	"Features" : [ "Value Selection, color change, set up maximum/minimum" ],
-	"Optimized" : [ "Desktop", "Tablet", "Mobile" ]
-}
