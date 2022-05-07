@@ -5,7 +5,7 @@ It is a simple addon I built based on the template (cra-template-fmw) from Geist
 
 It is not for production use. The addon is used at your own risk. I cannot guarantee there is no bug.
 
-＜h2＞Demo＜/h2＞
+<h2>Demo</h2>
 https://vimeo.com/663689982
 
 
